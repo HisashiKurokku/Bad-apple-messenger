@@ -1,9 +1,9 @@
 import cv2
 import os
 
-video_path = "C:/Users/TUF A15/Desktop/baby baby baby OOOOO/video.mp4"#<-- Video path here
+video_path = " "#<-- Video path here
 
-frames_dir = "C:/Users/TUF A15/Desktop/baby baby baby OOOOO/frames"#<-- Frames directory here
+frames_dir = " "#<-- Frames directory here
 if not os.path.exists(frames_dir):
     os.makedirs(frames_dir)
 
