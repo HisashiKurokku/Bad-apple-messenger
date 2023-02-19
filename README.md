@@ -9,4 +9,4 @@ You will also need a NASA computer because Facebook SUCKS
 
 ## Important!
 
-Do note that this code is not yet complete so edit it as you want.
+Do note that this code is not yet complete!
