@@ -3,4 +3,6 @@ For this code to successfully run, you will need to install the following librar
 - PyAutoGUI
 - Pyperclip
 
+To install a library, open Command Prompt and type `pip install <name of the library>`, i.e `pip install opencv`
+
 You will need a NASA computer because Facebook SUCKS
