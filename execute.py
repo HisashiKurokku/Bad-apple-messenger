@@ -1,4 +1,4 @@
-#Contributed by joneching
+#Contributed by Cỏ May Bay
 
 import json
 from time import sleep
