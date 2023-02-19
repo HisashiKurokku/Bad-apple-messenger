@@ -5,4 +5,4 @@ For this code to successfully run, you will need to install the following librar
 
 To install a library, open Command Prompt and type `pip install <name of the library>`, i.e `pip install opencv-python`
 
-You will need a NASA computer because Facebook SUCKS
+You will also need a NASA computer because Facebook SUCKS
