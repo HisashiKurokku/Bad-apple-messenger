@@ -7,6 +7,6 @@ To install a library, open Command Prompt and type `pip install <name of the lib
 
 You will also need a NASA computer because Facebook SUCKS
 
-<span style="font-size: 36px;">**Important**</span>
+## Important!
 
 Do note that this code is not yet complete so edit it as you want.
